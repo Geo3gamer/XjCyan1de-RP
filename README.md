@@ -1,4 +1,4 @@
-# XjCyan1de' Resource Pack
+# XjCyan1de RP
 
 ### Used 3rd-party Resource Packs:
 * [Improved Netherite](https://www.planetminecraft.com/texture_pack/improved-netherite-by-toxteer/)
