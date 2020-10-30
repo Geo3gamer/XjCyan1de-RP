@@ -45,8 +45,6 @@
 ## Vanilla Tweaks
 ##### Age 25 Kelp
 ![](https://vanillatweaks.net/assets/resources/previews/resourcepacks/1.16/Age25Kelp.png)
-##### Mine Progress Bar
-![](https://vanillatweaks.net/assets/resources/icons/resourcepacks/1.16/MineProgressBar.png)
 ##### Sticky Pistons Sides
 ![](https://vanillatweaks.net/assets/resources/previews/resourcepacks/1.16/StickyPistonSides.png)
 ##### Directional Hoppers
